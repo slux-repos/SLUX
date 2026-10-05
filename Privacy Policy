@@ -1,0 +1,60 @@
+<div align="center">
+
+<br><br>
+
+# ⟡ SLUX
+
+## PRIVACY POLICY
+
+### `YOUR DATA • YOUR TRUST • OUR RESPONSIBILITY`
+
+<br>
+
+**A simple promise:**  
+**We respect your data, keep things transparent, and only use information  
+that helps Slux do what it was built to do.**
+
+<br><br>
+
+</div>
+
+---
+
+# 01 — Before You Continue
+
+Welcome to the official **Slux Privacy Policy**.
+
+Slux is built for Discord communities and provides features such as
+moderation, security, automation, music, utility tools, configuration
+systems, and other community-focused functionality.
+
+This page explains, in simple terms, what information Slux may handle,
+why it may be needed, how it can be used, and what you should know
+before using the service.
+
+We don't believe privacy policies need to be unnecessarily complicated.
+So we've written this one to be understandable.
+
+> **If something isn't required for a feature, we don't want it.**
+
+---
+
+# 02 — What Slux Can See
+
+The exact information available to Slux depends on the permissions
+given to the bot and the features enabled in your server.
+
+This can include:
+
+```text
+User ID
+Server ID
+Channel ID
+Role ID
+Message ID
+Voice Channel ID
+Username / Display Name
+Server Configuration
+Command Usage
+Moderation Configuration
+Feature Settings
